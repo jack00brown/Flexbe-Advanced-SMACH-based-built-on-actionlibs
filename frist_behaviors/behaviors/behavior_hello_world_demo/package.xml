@@ -1,0 +1,19 @@
+<package>
+  <name>behavior_hello_world_demo</name>
+  <version>1.0.0</version>
+  <description>
+     Behavior created during in the FlexBE tutorial
+  </description>
+  <maintainer email="todo@todo.com">jack</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/behavior_hello_world_demo</url>
+  <author>jack</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>rospy</run_depend>
+  <run_depend>flexbe_core</run_depend>
+  <run_depend>flexbe_states</run_depend>
+
+</package>

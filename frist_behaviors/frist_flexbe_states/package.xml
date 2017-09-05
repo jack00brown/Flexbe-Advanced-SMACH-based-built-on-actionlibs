@@ -1,0 +1,29 @@
+<package>
+  <name>frist_flexbe_states</name>
+  <version>1.0.0</version>
+  <description>
+     frist_flexbe_states provides a collection of custom states.
+     Feel free to add new states.
+  </description>
+  <maintainer email="todo@todo.com">TODO</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>rospy</run_depend>
+
+  <run_depend>struct</run_depend>
+  <run_depend>sys</run_depend>
+  <run_depend>copy</run_depend>
+  <run_depend>ipdb</run_depend>
+  <run_depend>rospkg</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>baxter_core_msgs</run_depend>
+  <run_depend>baxter_interface</run_depend>
+  <run_depend>actionlib</run_depend>
+  <run_depend>flexbe_core</run_depend>
+
+</package>
+
+

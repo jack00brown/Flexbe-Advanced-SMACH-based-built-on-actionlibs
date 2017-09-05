@@ -1,0 +1,23 @@
+<package>
+  <name>behavior_d</name>
+  <version>1.0.0</version>
+  <description>
+     d
+  </description>
+  <maintainer email="todo@todo.com">jack</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/behavior_d</url>
+  <author>jack</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>rospy</run_depend>
+  <run_depend>flexbe_core</run_depend>
+  <run_depend>flexbe_states</run_depend>
+  <run_depend>flexbe_mirror</run_depend>
+  <run_depend>frist_flexbe_states</run_depend>
+  <run_depend>strands_flexbe_states</run_depend>
+  <run_depend>flexbe_testing</run_depend>
+
+</package>

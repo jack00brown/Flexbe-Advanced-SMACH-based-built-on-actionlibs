@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="d">
+
+	<executable package_path="behavior_d.d_sm" class="dSM" />
+	<tagstring>d</tagstring>
+	<author>jack</author>
+	<date>Tue Jul 18 2017</date>
+	<description>
+		d
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+	<params>
+
+		<param type="numeric" name="waiting_time" default="2" label="waiting_time" hint="Sets the waiting_time">
+			<min value="0" />
+			<max value="5" />
+		</param>
+
+	</params>
+
+
+</behavior>
